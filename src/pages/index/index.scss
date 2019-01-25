@@ -1,0 +1,21 @@
+.index {
+  padding: 15px;
+}
+
+.header {
+  .user {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    &_info {
+      flex: 1;
+      margin: 10px;
+      &_nickname {
+        display: block;
+      }
+    }
+  }
+  .logout {
+
+  }
+}
