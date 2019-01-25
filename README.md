@@ -101,3 +101,7 @@ class Index extends Component {
 
 export default Index  as ComponentType
 ```
+
+## 鸣谢
++ [Taro](https://github.com/NervJS/taro)
++ [Taro-UI](https://github.com/NervJS/taro-ui)
